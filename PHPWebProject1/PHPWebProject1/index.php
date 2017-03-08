@@ -1,5 +1,5 @@
 <?php
 
-echo "Dnes je streda 08.03.2017";
+echo "Dnes je streda 8.03.2017";
 
 ?>
